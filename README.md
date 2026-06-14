@@ -4,7 +4,7 @@ A desktop app for building **GURPS 4th edition** character sheets. Attributes an
 secondary characteristics update live, a points budget tracks spending against
 GURPS costs, and you can add a portrait and export the finished sheet to PNG or PDF.
 
-## Run it (Windows — no install needed)
+## Run it (Windows - no install needed)
 
 Just double-click an app:
 
