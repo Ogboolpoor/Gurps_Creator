@@ -1,0 +1,8 @@
+# PyInstaller build artifacts — never commit these
+build/
+dist/
+__pycache__/
+*.spec
+
+# Disk images / large binaries
+*.dmg
